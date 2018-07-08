@@ -1,0 +1,7 @@
+
+###
+### menlo_cnc_grbl_soc: Support for menlo_cnc, FPGA and real time Linux machine tool controller.
+###
+### See https://github.com/menloparkinnovation/openpux/tree/master/menlocnc
+###
+
