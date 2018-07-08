@@ -1,8 +1,16 @@
 ![GitHub Logo](https://github.com/gnea/gnea-Media/blob/master/Grbl%20Logo/Grbl%20Logo%20250px.png?raw=true)
 ***
 
+###
+### menlo_cnc_grbl_soc: Support for menlo_cnc, FPGA and real time Linux machine tool controller.
+###
+### See https://github.com/menloparkinnovation/openpux/tree/master/menlocnc
+###
+
+### The rest are Grbl project notes:
 ### Grbl v1.1 has been released [here](https://github.com/gnea/grbl/releases)!
-### Notice: This site will be phased out and moved to the new one!
+
+* [Licensing](https://github.com/grbl/grbl/wiki/Licensing): Grbl is free software, released under the GPLv3 license.
 
 ***
 
